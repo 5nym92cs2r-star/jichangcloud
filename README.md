@@ -77,7 +77,7 @@
 | Telegram 联系 | https://t.me/xiaoyu33s |
 | RSS 订阅 | https://jichangcloud.co/rss.xml |
 
-地址最后更新：2026-10-31
+地址最后更新：2026-11-16
 
 ### 网站打不开怎么办？
 
@@ -117,17 +117,17 @@
 
 ### 机场问题
 
-- [2026 年稳定机场应该怎么选：线路、协议、出口与价格的优先级](https://jichangcloud.co/questions/stable-airport/)
-- [2026 性价比机场推荐：按预算比较月付、年付与流量包](https://jichangcloud.co/questions/best-value-airport/)
+- [2026 稳定机场怎么选？购买前先核对这 5 项](https://jichangcloud.co/questions/stable-airport/)
+- [2026 性价比机场怎么选？15、25、50 元预算对照](https://jichangcloud.co/questions/best-value-airport/)
 - [机场连不上怎么办：订阅失败、节点超时、DNS 与已连接无网络排查](https://jichangcloud.co/questions/airport-connection-troubleshooting/)
-- [查看全部 10 篇机场问题 →](https://jichangcloud.co/questions/)
+- [查看全部 12 篇机场问题 →](https://jichangcloud.co/questions/)
 
 ### 客户端指南
 
-- [Clash 使用教程：订阅导入、规则分流、系统代理与 TUN 排查](https://jichangcloud.co/clients/clash-guide/)
+- [Clash 使用教程：导入订阅、选择节点与联网排查](https://jichangcloud.co/clients/clash-guide/)
 - [Clash 客户端怎么选：Windows、macOS、Android 与 iOS 使用指南](https://jichangcloud.co/clients/which-clash-client/)
-- [Shadowrocket 使用教程：iPhone / iPad 订阅导入、分流与连接排查](https://jichangcloud.co/clients/shadowrocket-guide/)
-- [查看全部 6 篇客户端指南 →](https://jichangcloud.co/clients/)
+- [Shadowrocket 使用教程：小火箭导入订阅与连接排查](https://jichangcloud.co/clients/shadowrocket-guide/)
+- [查看全部 7 篇客户端指南 →](https://jichangcloud.co/clients/)
 
 ### 网络知识
 
@@ -138,8 +138,8 @@
 
 ### AI 专题
 
-- [AI 稳定机场推荐：ChatGPT、Claude、Gemini、Codex 怎么选网络环境](https://jichangcloud.co/ai/ai-stable-airport/)
-- [Claude 机场推荐：地区支持、连接稳定性与 Claude Code 排查](https://jichangcloud.co/ai/claude-airport/)
+- [AI 机场推荐怎么选？ChatGPT、Claude 与 Codex 使用清单](https://jichangcloud.co/ai/ai-stable-airport/)
+- [Claude 机场怎么选？推荐依据与 Claude Code 连接排查](https://jichangcloud.co/ai/claude-airport/)
 - [ChatGPT 机场推荐：线路选择、反复验证与连接故障排查](https://jichangcloud.co/ai/chatgpt-airport/)
 - [查看全部 3 篇 AI 专题 →](https://jichangcloud.co/ai/)
 
