@@ -138,8 +138,8 @@
 
 ### AI 专题
 
-- [AI 机场推荐怎么选？ChatGPT、Claude 与 Codex 使用清单](https://jichangcloud.co/ai/ai-stable-airport/)
-- [Claude 机场怎么选？推荐依据与 Claude Code 连接排查](https://jichangcloud.co/ai/claude-airport/)
+- [AI 机场推荐：Claude、Gemini、Codex 与 ChatGPT 选购指南](https://jichangcloud.co/ai/ai-stable-airport/)
+- [Claude 机场推荐：候选套餐、支持证据与避坑清单](https://jichangcloud.co/ai/claude-airport/)
 - [ChatGPT 机场推荐：线路选择、反复验证与连接故障排查](https://jichangcloud.co/ai/chatgpt-airport/)
 - [查看全部 3 篇 AI 专题 →](https://jichangcloud.co/ai/)
 
